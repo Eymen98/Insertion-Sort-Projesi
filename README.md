@@ -58,3 +58,4 @@ Dizi küçükten büyüğe sıralandıktan sonra [2,6,16,18,22,27] şeklini alı
 [2,3,4,5|,7,9,8,15,6]
 
 
+www.patika.dev
