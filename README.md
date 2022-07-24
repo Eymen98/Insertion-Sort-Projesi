@@ -1,7 +1,7 @@
 # Insertion-Sort-Projesi
-Patika.dev_Insertion Sort Bitirme Projesi
 
-# Insertion Sort Projesi
+
+# Proje 1
 [22,27,16,2,18,6] - Insertion Sort 
 
  1-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -16,17 +16,17 @@ Patika.dev_Insertion Sort Bitirme Projesi
 
 # Insertion Sort Aşamaları
 
-[22,27,16,2,18,6] - (n)
+[22,27,16,2,18,6]  (n)
 
-[2|,27,16,22,18,6] - (n-1)
+[2|,27,16,22,18,6]  (n-1)
 
-[2,6|,16,22,18,27] - (n-2)
+[2,6|,16,22,18,27]  (n-2)
 
-[2,6,16|,18,22,27] - (n-3)
+[2,6,16|,18,22,27]  (n-3)
 
 # Big O Notation Gösterimi
 
-Worst Case: O(n²) = n+(n-1)+(n-2)....+1
+Worst Case: O(n²) 
 
 Average Case: O(n²)
 
@@ -40,7 +40,7 @@ Best Case: [2,6,16,18,22,27]
 
 # 18 Sayısının Case Durumu
 
-Dizimiz küçükten büyüğe sıralandıktan sonra [2,6,16,18,22,27] şeklini alır ve 18 sayısı bu dizinin ortanca değeridir. Yani average case diyebiliriz.
+Dizi küçükten büyüğe sıralandıktan sonra [2,6,16,18,22,27] şeklini alır ve 18 sayısı bu dizinin ortanca değeri olduğu için *average case* diyebiliriz.
 
 # [7,3,5,8,2,9,4,15,6] Dizisinin İlk 4 Adımı
 
